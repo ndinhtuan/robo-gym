@@ -7,3 +7,8 @@
 /dist
 /*.egg-info
 /Pipfile
+
+docs/examples/stable-baselines/log/*
+*.zip
+*.swq
+*.pyc
